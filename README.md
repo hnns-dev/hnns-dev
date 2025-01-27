@@ -1,4 +1,4 @@
-# 💫 About Me:
+#📓 About Me:
 Hi 👋, I'm Hannes!<br>💻 Passionate Frontend Developer<br>🎓 Studied at DevHaus Leipzig<br>🌍 Excited to bring fresh ideas to innovative teams—open to work!<br>🎞️ Also loving analog things like film cameras and vinyl<br>🤝 Open to connect and collaboratee
 
 
